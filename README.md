@@ -9,12 +9,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/center_2017_07_15_19_00_49_825.jpg "Track 1 - Center"
-[image2]: ./images/left_2017_07_15_19_00_49_825.jpg "Track 1 - Left"
-[image3]: ./images/right_2017_07_15_19_00_49_825.jpg "Track 1 - Right"
-[image4]: ./images/center_2017_07_16_13_36_49_825.jpg "Track 2 - Center"
-[image5]: ./images/left_2017_07_16_13_36_49_825.jpg "Track 2 - Left"
-[image6]: ./images/right_2017_07_16_13_36_49_825.jpg "Track 2 - Right"
+[image1]: ./Images_Report/center_2017_07_15_19_00_49_825.jpg "Track 1 - Center"
+[image2]: ./Images_Report/left_2017_07_15_19_00_49_825.jpg "Track 1 - Left"
+[image3]: ./Images_Report/right_2017_07_15_19_00_49_825.jpg "Track 1 - Right"
+[image4]: ./Images_Report/center_2017_07_16_13_36_49_825.jpg "Track 2 - Center"
+[image5]: ./Images_Report/left_2017_07_16_13_36_49_825.jpg "Track 2 - Left"
+[image6]: ./Images_Report/right_2017_07_16_13_36_49_825.jpg "Track 2 - Right"
 
 
 ###  1. Files Submitted
@@ -82,9 +82,9 @@ Corresponding Images from Track 1
 
 Corresponding Images from Track 2
 
-![alt text][image3]
 ![alt text][image4]
 ![alt text][image5]
+![alt text][image6]
 
 Initially I had planned more data gathering, such as "recovery from edges", "smoother turns". However, during driving the scenarios stated above I covered a lot "types" of driving, and having achieved a stable model. I noted it for future improvements.
 
